@@ -1,6 +1,6 @@
 # DevOps
 
-[https://github.com/AldiTam/DevOps/blob/main/aws_cicd_diagramm.png?raw=true](https://github.com/AldiTam/DevOps/issues/1#issue-3139853123)
+[https://github.com/AldiTam/DevOps/blob/main/aws_cicd_diagramm.png?raw=true]
 
 ---
 
