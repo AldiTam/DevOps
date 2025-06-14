@@ -14,7 +14,7 @@ In this AWS DevOps project we're going to:
 6. Automate Your Infrastructure with CloudFormation
 7. CI/CD with CodePipeline
 
-## Set up a Web app in the cloud
+## 1. Set up a Web app in the cloud
 Since we want our web app to be entirely created and run on the cloud, we'll use a virtual server (EC2 instance) to house our development work.
 
 Let's get an EC2 instance up and running!
