@@ -19,6 +19,9 @@ Since we want our web app to be entirely created and run on the cloud, we'll use
 
 Let's get an EC2 instance up and running!
 
+## 2. Connect a GitHub Repo with AWS
+a
+
 ## 🖼️ Demo / Screenshots  
 ![Screenshot 1](https://via.placeholder.com/400x250.png?text=Screenshot+1)
 ![Screenshot 2](https://via.placeholder.com/400x250.png?text=Screenshot+2)
