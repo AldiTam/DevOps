@@ -27,7 +27,7 @@ a
 ![Screenshot 2](https://via.placeholder.com/400x250.png?text=Screenshot+2)
 
 ## 🛠️ Installation  
-```bash
+
 # Step 1: Clone the repo
 git clone https://github.com/yourusername/your-repo-name.git
 
@@ -35,3 +35,7 @@ git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
 
 # Step 3: Run your setup instructions here
+
+# Step 4:
+
+## Credit
